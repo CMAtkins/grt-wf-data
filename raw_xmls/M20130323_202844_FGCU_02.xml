@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ufocapture_record version="215" y="2013" mo="03" d="23" h="20" m="28" s="44.16" trig="1" frames="96" lng="-81.7718" lat="26.4632" alt="20.0" tz="-14400" u2="222" cx="640" cy="480" fps="29.970" head="30" tail="60" diff="1" sipos="1" sisize="15" dlev="49" dsize="3" lid="FGCU" observer="GRT-WF2" sid="02" cam="WAT-902H2" lens="YV2.7x2.9LR4D-SA2L" cap="DazzleDVDRecorderPlus" comment="" interlace="1" bbf="0" dropframe="0">
+    <ufocapture_paths hit="5">
+     <uc_path fno="30" ono="3" pixel="3" bmax="64" x="611.0" y="417.0"></uc_path>
+     <uc_path fno="30" ono="2" pixel="21" bmax="174" x="583.4" y="432.3"></uc_path>
+     <uc_path fno="30" ono="3" pixel="1" bmax="174" x="586.0" y="432.0"></uc_path>
+     <uc_path fno="32" ono="1" pixel="15" bmax="71" x="620.4" y="424.9"></uc_path>
+     <uc_path fno="34" ono="2" pixel="90" bmax="188" x="576.1" y="441.2"></uc_path>
+    </ufocapture_paths>
+</ufocapture_record>

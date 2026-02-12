@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ufocapture_record version="215" y="2011" mo="07" d="30" h="04" m="38" s="05.06" trig="1" frames="108" lng="-81.7718" lat="26.4632" alt="20.0" tz="-14400" u2="222" cx="640" cy="480" fps="29.970" head="30" tail="60" diff="1" sipos="1" sisize="15" dlev="28" dsize="3" lid="FGCU" observer="GRT-WF7" sid="07" cam="WAT-902H2" lens="YV2.7x2.9LR4D-SA2L" cap="DazzleDVDRecorderPlus" comment="" interlace="1" bbf="0" dropframe="0">
+    <ufocapture_paths hit="18">
+     <uc_path fno="30" ono="9" pixel="5" bmax="49" x="495.2" y="358.6"></uc_path>
+     <uc_path fno="30" ono="9" pixel="3" bmax="52" x="496.0" y="360.0"></uc_path>
+     <uc_path fno="31" ono="9" pixel="3" bmax="44" x="497.7" y="360.7"></uc_path>
+     <uc_path fno="32" ono="9" pixel="8" bmax="78" x="498.4" y="362.4"></uc_path>
+     <uc_path fno="33" ono="9" pixel="5" bmax="72" x="499.6" y="362.8"></uc_path>
+     <uc_path fno="34" ono="9" pixel="7" bmax="91" x="500.3" y="364.6"></uc_path>
+     <uc_path fno="35" ono="9" pixel="7" bmax="68" x="501.6" y="365.3"></uc_path>
+     <uc_path fno="36" ono="9" pixel="7" bmax="112" x="502.3" y="366.6"></uc_path>
+     <uc_path fno="37" ono="9" pixel="7" bmax="58" x="503.6" y="367.3"></uc_path>
+     <uc_path fno="38" ono="9" pixel="7" bmax="132" x="504.3" y="368.6"></uc_path>
+     <uc_path fno="39" ono="9" pixel="10" bmax="66" x="505.7" y="369.8"></uc_path>
+     <uc_path fno="40" ono="9" pixel="7" bmax="122" x="506.3" y="370.6"></uc_path>
+     <uc_path fno="41" ono="9" pixel="6" bmax="85" x="507.3" y="372.2"></uc_path>
+     <uc_path fno="42" ono="9" pixel="7" bmax="88" x="508.3" y="372.6"></uc_path>
+     <uc_path fno="43" ono="9" pixel="5" bmax="60" x="509.2" y="374.4"></uc_path>
+     <uc_path fno="44" ono="9" pixel="7" bmax="89" x="510.3" y="374.6"></uc_path>
+     <uc_path fno="45" ono="9" pixel="6" bmax="85" x="511.5" y="376.5"></uc_path>
+     <uc_path fno="46" ono="9" pixel="3" bmax="37" x="512.3" y="377.0"></uc_path>
+    </ufocapture_paths>
+</ufocapture_record>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ufocapture_record version="215" y="2011" mo="07" d="17" h="15" m="41" s="49.69" trig="1" frames="91" lng="-81.7718" lat="26.4632" alt="20.0" tz="-14400" u2="222" cx="640" cy="480" fps="29.970" head="30" tail="60" diff="1" sipos="1" sisize="15" dlev="60" dsize="100" lid="FGCU" observer="GRT-WF5" sid="05" cam="WAT-902H2" lens="YV2.7x2.9LR4D-SA2L" cap="DazzleDVDRecorderPlus" comment="" interlace="1" bbf="0" dropframe="0">
+    <ufocapture_paths hit="17">
+     <uc_path fno="30" ono="1" pixel="109" bmax="108" x="532.9" y="308.8"></uc_path>
+     <uc_path fno="30" ono="2" pixel="245" bmax="108" x="581.0" y="303.5"></uc_path>
+     <uc_path fno="30" ono="3" pixel="524" bmax="108" x="552.7" y="293.3"></uc_path>
+     <uc_path fno="30" ono="4" pixel="285" bmax="108" x="601.3" y="292.3"></uc_path>
+     <uc_path fno="30" ono="6" pixel="147" bmax="108" x="613.7" y="355.6"></uc_path>
+     <uc_path fno="30" ono="7" pixel="311" bmax="108" x="624.4" y="284.4"></uc_path>
+     <uc_path fno="30" ono="8" pixel="307" bmax="108" x="598.0" y="317.8"></uc_path>
+     <uc_path fno="30" ono="9" pixel="140" bmax="108" x="573.0" y="351.3"></uc_path>
+     <uc_path fno="30" ono="10" pixel="205" bmax="108" x="583.6" y="279.1"></uc_path>
+     <uc_path fno="30" ono="11" pixel="327" bmax="108" x="623.3" y="310.7"></uc_path>
+     <uc_path fno="30" ono="12" pixel="100" bmax="108" x="554.0" y="341.9"></uc_path>
+     <uc_path fno="30" ono="14" pixel="361" bmax="108" x="591.0" y="342.7"></uc_path>
+     <uc_path fno="30" ono="15" pixel="375" bmax="108" x="621.4" y="336.3"></uc_path>
+     <uc_path fno="30" ono="16" pixel="239" bmax="108" x="611.8" y="243.8"></uc_path>
+     <uc_path fno="30" ono="17" pixel="283" bmax="108" x="572.7" y="327.8"></uc_path>
+     <uc_path fno="30" ono="18" pixel="347" bmax="108" x="551.8" y="319.5"></uc_path>
+     <uc_path fno="30" ono="19" pixel="425" bmax="108" x="583.4" y="243.2"></uc_path>
+    </ufocapture_paths>
+</ufocapture_record>

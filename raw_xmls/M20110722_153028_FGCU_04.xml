@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ufocapture_record version="215" y="2011" mo="07" d="22" h="15" m="30" s="28.79" trig="1" frames="92" lng="-81.7718" lat="26.4632" alt="20.0" tz="-14400" u2="222" cx="640" cy="480" fps="29.970" head="30" tail="60" diff="1" sipos="1" sisize="15" dlev="61" dsize="100" lid="FGCU" observer="GRT-WF4" sid="04" cam="WAT-902H2" lens="YV2.7x2.9LR4D-SA2L" cap="DazzleDVDRecorderPlus" comment="" interlace="1" bbf="0" dropframe="0">
+    <ufocapture_paths hit="18">
+     <uc_path fno="31" ono="2" pixel="116" bmax="173" x="281.2" y="13.4"></uc_path>
+     <uc_path fno="31" ono="3" pixel="128" bmax="173" x="265.5" y="13.0"></uc_path>
+     <uc_path fno="31" ono="4" pixel="128" bmax="173" x="249.5" y="13.0"></uc_path>
+     <uc_path fno="31" ono="5" pixel="128" bmax="173" x="233.5" y="13.0"></uc_path>
+     <uc_path fno="31" ono="6" pixel="128" bmax="173" x="217.5" y="13.0"></uc_path>
+     <uc_path fno="31" ono="7" pixel="128" bmax="173" x="201.5" y="13.0"></uc_path>
+     <uc_path fno="31" ono="8" pixel="128" bmax="173" x="185.5" y="13.0"></uc_path>
+     <uc_path fno="31" ono="9" pixel="128" bmax="173" x="169.5" y="13.0"></uc_path>
+     <uc_path fno="31" ono="10" pixel="128" bmax="173" x="153.5" y="13.0"></uc_path>
+     <uc_path fno="31" ono="11" pixel="128" bmax="173" x="137.5" y="13.0"></uc_path>
+     <uc_path fno="31" ono="12" pixel="128" bmax="173" x="121.5" y="13.0"></uc_path>
+     <uc_path fno="31" ono="13" pixel="128" bmax="173" x="105.5" y="13.0"></uc_path>
+     <uc_path fno="31" ono="14" pixel="128" bmax="173" x="89.5" y="13.0"></uc_path>
+     <uc_path fno="31" ono="15" pixel="128" bmax="173" x="73.5" y="13.0"></uc_path>
+     <uc_path fno="31" ono="16" pixel="128" bmax="173" x="57.5" y="13.0"></uc_path>
+     <uc_path fno="31" ono="17" pixel="128" bmax="173" x="41.5" y="13.0"></uc_path>
+     <uc_path fno="31" ono="18" pixel="128" bmax="173" x="25.5" y="13.0"></uc_path>
+     <uc_path fno="31" ono="19" pixel="128" bmax="173" x="9.5" y="13.0"></uc_path>
+    </ufocapture_paths>
+</ufocapture_record>

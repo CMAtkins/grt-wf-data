@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ufocapture_record version="215" y="2013" mo="04" d="12" h="05" m="29" s="18.32" trig="1" frames="91" lng="-81.7718" lat="26.4632" alt="20.0" tz="-14400" u2="222" cx="640" cy="480" fps="29.970" head="30" tail="60" diff="1" sipos="1" sisize="15" dlev="43" dsize="3" lid="FGCU" observer="GRT-WF1" sid="01" cam="WAT-902H2" lens="YV2.7x2.9LR4D-SA2L" cap="DazzleDVDRecorderPlus" comment="" interlace="1" bbf="0" dropframe="0">
+    <ufocapture_paths hit="18">
+     <uc_path fno="30" ono="2" pixel="194" bmax="231" x="579.0" y="347.4"></uc_path>
+     <uc_path fno="30" ono="3" pixel="104" bmax="231" x="531.5" y="347.0"></uc_path>
+     <uc_path fno="30" ono="4" pixel="38" bmax="231" x="514.3" y="343.1"></uc_path>
+     <uc_path fno="30" ono="5" pixel="128" bmax="231" x="547.1" y="342.5"></uc_path>
+     <uc_path fno="30" ono="6" pixel="133" bmax="231" x="562.2" y="335.2"></uc_path>
+     <uc_path fno="30" ono="7" pixel="129" bmax="231" x="579.9" y="332.2"></uc_path>
+     <uc_path fno="30" ono="8" pixel="54" bmax="231" x="539.1" y="333.7"></uc_path>
+     <uc_path fno="30" ono="9" pixel="157" bmax="231" x="567.0" y="319.4"></uc_path>
+     <uc_path fno="30" ono="10" pixel="5" bmax="231" x="611.4" y="324.0"></uc_path>
+     <uc_path fno="30" ono="11" pixel="105" bmax="231" x="550.6" y="326.3"></uc_path>
+     <uc_path fno="30" ono="12" pixel="98" bmax="231" x="560.1" y="352.4"></uc_path>
+     <uc_path fno="30" ono="13" pixel="137" bmax="231" x="543.5" y="357.1"></uc_path>
+     <uc_path fno="30" ono="14" pixel="35" bmax="231" x="526.0" y="359.4"></uc_path>
+     <uc_path fno="30" ono="15" pixel="151" bmax="231" x="576.2" y="363.7"></uc_path>
+     <uc_path fno="30" ono="16" pixel="109" bmax="231" x="557.0" y="367.0"></uc_path>
+     <uc_path fno="30" ono="17" pixel="76" bmax="231" x="543.8" y="373.1"></uc_path>
+     <uc_path fno="30" ono="18" pixel="156" bmax="231" x="574.1" y="379.4"></uc_path>
+     <uc_path fno="30" ono="19" pixel="106" bmax="231" x="555.5" y="387.1"></uc_path>
+    </ufocapture_paths>
+</ufocapture_record>

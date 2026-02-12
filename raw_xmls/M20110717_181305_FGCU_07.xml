@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ufocapture_record version="215" y="2011" mo="07" d="17" h="18" m="13" s="05.52" trig="1" frames="100" lng="-81.7718" lat="26.4632" alt="20.0" tz="-14400" u2="222" cx="640" cy="480" fps="29.970" head="30" tail="60" diff="1" sipos="1" sisize="15" dlev="60" dsize="100" lid="FGCU" observer="GRT-WF7" sid="07" cam="WAT-902H2" lens="YV2.7x2.9LR4D-SA2L" cap="DazzleDVDRecorderPlus" comment="" interlace="1" bbf="0" dropframe="0">
+    <ufocapture_paths hit="41">
+     <uc_path fno="30" ono="11" pixel="117" bmax="171" x="588.7" y="238.9"></uc_path>
+     <uc_path fno="31" ono="11" pixel="2" bmax="182" x="564.5" y="248.0"></uc_path>
+     <uc_path fno="31" ono="14" pixel="102" bmax="182" x="403.3" y="252.6"></uc_path>
+     <uc_path fno="31" ono="17" pixel="211" bmax="182" x="353.9" y="244.2"></uc_path>
+     <uc_path fno="35" ono="1" pixel="275" bmax="230" x="529.5" y="152.3"></uc_path>
+     <uc_path fno="35" ono="2" pixel="204" bmax="230" x="593.7" y="147.1"></uc_path>
+     <uc_path fno="35" ono="3" pixel="333" bmax="230" x="565.9" y="140.6"></uc_path>
+     <uc_path fno="35" ono="4" pixel="346" bmax="230" x="621.6" y="177.6"></uc_path>
+     <uc_path fno="35" ono="6" pixel="248" bmax="230" x="532.0" y="176.9"></uc_path>
+     <uc_path fno="35" ono="7" pixel="480" bmax="230" x="504.4" y="172.2"></uc_path>
+     <uc_path fno="35" ono="8" pixel="260" bmax="230" x="603.8" y="170.0"></uc_path>
+     <uc_path fno="35" ono="9" pixel="106" bmax="230" x="632.2" y="96.3"></uc_path>
+     <uc_path fno="35" ono="10" pixel="242" bmax="230" x="443.5" y="78.6"></uc_path>
+     <uc_path fno="35" ono="11" pixel="1268" bmax="230" x="564.2" y="247.7"></uc_path>
+     <uc_path fno="35" ono="12" pixel="166" bmax="230" x="592.9" y="46.3"></uc_path>
+     <uc_path fno="35" ono="13" pixel="341" bmax="230" x="561.7" y="170.4"></uc_path>
+     <uc_path fno="35" ono="14" pixel="1276" bmax="230" x="402.2" y="252.5"></uc_path>
+     <uc_path fno="35" ono="15" pixel="318" bmax="230" x="445.8" y="170.5"></uc_path>
+     <uc_path fno="35" ono="17" pixel="1251" bmax="230" x="335.4" y="243.3"></uc_path>
+     <uc_path fno="35" ono="19" pixel="187" bmax="230" x="618.7" y="153.8"></uc_path>
+     <uc_path fno="36" ono="2" pixel="177" bmax="199" x="609.4" y="164.8"></uc_path>
+     <uc_path fno="36" ono="4" pixel="610" bmax="199" x="614.9" y="184.6"></uc_path>
+     <uc_path fno="36" ono="5" pixel="513" bmax="199" x="560.4" y="209.7"></uc_path>
+     <uc_path fno="36" ono="6" pixel="25" bmax="199" x="535.1" y="197.9"></uc_path>
+     <uc_path fno="36" ono="7" pixel="52" bmax="199" x="489.2" y="160.4"></uc_path>
+     <uc_path fno="36" ono="8" pixel="150" bmax="199" x="589.3" y="184.6"></uc_path>
+     <uc_path fno="36" ono="11" pixel="1246" bmax="199" x="564.2" y="246.6"></uc_path>
+     <uc_path fno="36" ono="13" pixel="99" bmax="199" x="568.9" y="189.5"></uc_path>
+     <uc_path fno="37" ono="1" pixel="579" bmax="174" x="541.0" y="157.4"></uc_path>
+     <uc_path fno="37" ono="2" pixel="1159" bmax="174" x="609.9" y="163.9"></uc_path>
+     <uc_path fno="37" ono="3" pixel="416" bmax="174" x="570.6" y="138.3"></uc_path>
+     <uc_path fno="37" ono="4" pixel="535" bmax="174" x="614.9" y="196.9"></uc_path>
+     <uc_path fno="37" ono="5" pixel="942" bmax="174" x="558.4" y="203.9"></uc_path>
+     <uc_path fno="37" ono="6" pixel="498" bmax="174" x="528.9" y="196.4"></uc_path>
+     <uc_path fno="37" ono="8" pixel="207" bmax="174" x="575.3" y="177.4"></uc_path>
+     <uc_path fno="37" ono="9" pixel="334" bmax="174" x="620.4" y="106.9"></uc_path>
+     <uc_path fno="37" ono="12" pixel="79" bmax="174" x="584.5" y="55.1"></uc_path>
+     <uc_path fno="37" ono="13" pixel="69" bmax="174" x="570.4" y="185.7"></uc_path>
+     <uc_path fno="37" ono="15" pixel="331" bmax="174" x="437.3" y="179.1"></uc_path>
+     <uc_path fno="37" ono="16" pixel="195" bmax="174" x="596.8" y="110.7"></uc_path>
+     <uc_path fno="37" ono="19" pixel="300" bmax="174" x="617.1" y="134.6"></uc_path>
+    </ufocapture_paths>
+</ufocapture_record>
